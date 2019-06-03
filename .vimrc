@@ -19,8 +19,8 @@ call vundle#begin()
 "------- Vundle ---------
 Plugin 'VundleVim/Vundle.vim'
 "--------- YCM ----------
-Plugin 'rdnetto/YCM-Generator'
-Plugin 'Valloric/YouCompleteMe'
+"Plugin 'rdnetto/YCM-Generator'
+"Plugin 'Valloric/YouCompleteMe'
 "------- THEMES ---------
 " Gruvbox theme
 Plugin 'morhetz/gruvbox'
